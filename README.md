@@ -1,3 +1,8 @@
+## Instructions from submitter
+Submitted five R scripts (One for getting and cleaning data and four for plotting) and four plots
+
+
+
 ## Introduction
 
 This assignment uses data from
